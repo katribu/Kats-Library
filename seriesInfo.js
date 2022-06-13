@@ -6,7 +6,7 @@ const series = {
         spice: "🌶️🌶️🌶️",
         lead: "Aelin",
         mate: "Rowan",
-        coverArt: "Books/images/tog.jpg"
+        coverArt: "images/tog.jpg"
     },
     acotar: {
         title: "A Court of Thorns and Roses",
