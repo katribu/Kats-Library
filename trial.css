@@ -1,0 +1,90 @@
+/* Typoghraphy */
+
+body {
+    font-size: 14px;
+    color: #c5c5c5;
+    margin: 0;
+    font-family: 'Montserrat Alternates', sans-serif;
+    text-align: center;
+}
+
+main {
+    /* max-width: 600px; */
+    margin: 0 auto;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+ }
+
+ .title {
+     /* border: solid 2px yellow; */
+     height: 9vh;
+ }
+
+ .author {
+     font-weight: 700;
+ }
+
+ /* Layout */
+.library {
+    border: groove 2px green;
+    background: #3d3d5c;
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.bookContainer {
+    /* border: solid 2px orange; */
+    width: 200px;
+    background: #5c5c8a;
+    margin: 10px auto;
+    padding: 0.5rem; 
+    
+}
+
+ .coverArt {
+    border: groove 2px #47476b;
+    width: 30%;
+    margin: 0 auto;
+}
+
+@media (min-width: 550px){
+    .library {
+        max-width: 900px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+    }
+
+    .row {
+        margin: 0.5rem;
+    }
+
+}
+
+/* Button */
+.btn {
+    background: #7575a3;
+    cursor: pointer;
+    padding: 1.25em;
+    border: none;
+    border-radius: 20%;
+    font-family: inherit;
+    margin-top: 1rem;
+    font-weight: 500;
+}
+
+.btn:hover {
+    background: #3d3d5c;
+    color: #fff;
+}
+
+
+
+
+/* need to style all the books and card. Pick out font styles...  */
