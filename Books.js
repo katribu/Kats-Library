@@ -1,4 +1,4 @@
-import {series} from "/seriesInfo.js"
+import {series} from "./seriesInfo.js"
 
 function Books(data) {
     Object.assign(this,data)
