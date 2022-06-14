@@ -6,7 +6,7 @@ const series = {
         spice: "🌶️🌶️🌶️",
         lead: "Aelin",
         mate: "Rowan",
-        coverArt: "images/tog.jpg"
+        coverArt: "./images/tog.jpg"
     },
     acotar: {
         title: "A Court of Thorns and Roses",
@@ -15,7 +15,7 @@ const series = {
         spice: "🌶️🌶️🌶️🌶️",
         lead: "Feyhre",
         mate: "Rhysand",
-        coverArt: "images/acotar.jpg"
+        coverArt: "./images/acotar.jpg"
     },
     cc: {
         title: "Crescent City",
@@ -24,7 +24,7 @@ const series = {
         spice: "🌶️🌶️",
         lead: "Bryce",
         mate: "Hunt",
-        coverArt: "images/cc.jpg"
+        coverArt: "./images/cc.jpg"
     },
     hp: {
         title: "Harry Potter",
@@ -33,7 +33,7 @@ const series = {
         spice: "🌶️",
         lead: "Harry",
         mate: "Ginny",
-        coverArt: "images/hp.jpg"
+        coverArt: "./images/hp.jpg"
     },
     twilight: {
         title: "Twilight",
@@ -42,7 +42,7 @@ const series = {
         spice: "🌶️",
         lead: "Bella",
         mate: "Edward",
-        coverArt: "images/twilight.jpg"
+        coverArt: "./images/twilight.jpg"
     },
     hg: {
         title: "The Hunger Games",
@@ -51,7 +51,7 @@ const series = {
         spice: "🌶️",
         lead: "Katniss",
         mate: "Peeta",
-        coverArt: "images/hg.jpg"
+        coverArt: "./images/hg.jpg"
     }
 }
 
