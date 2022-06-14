@@ -1,5 +1,5 @@
-import {Books} from "/Books.js"
-import {series} from "/seriesInfo.js"
+import {Books} from "./Books.js"
+import {series} from "./seriesInfo.js"
 
 
 function render() {
